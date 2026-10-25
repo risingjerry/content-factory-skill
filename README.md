@@ -42,7 +42,7 @@
 
 ```bash
 # 1. 将仓库克隆到 ~/.claude/skills/ 目录下
-git clone https://github.com/JNHFlow21/content-factory-skill.git ~/.claude/skills/content-factory
+git clone https://github.com/risingjerry/content-factory-skill.git ~/.claude/skills/content-factory
 
 # 2. 安装依赖（Python 3）
 pip3 install pyyaml requests pillow 2>/dev/null || true
